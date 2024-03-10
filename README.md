@@ -15,4 +15,3 @@ I'm Nargis, a full-stack web developer with a mission to master both the front a
 Feel free to drop by, share your coding tales, or exchange your favorite cat memes - because every great developer needs a debugging feline sidekick! 😸
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nargissamatova&layout=donut)](https://github.com/Nargissamatova/github-readme-stats)
-https://images.app.goo.gl/gc4xWejhWiFzj5Ap6
