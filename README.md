@@ -6,7 +6,12 @@ I'm Nargis, a full-stack web developer with a mission to master both the front a
   - Currently, I'm navigating the complexities of code while trying to convince my cat that JavaScript isn't a language meant for cats.
   - Constantly learning and evolving, because let's face it, the tech world changes faster than a cat chasing a laser pointer.
 ##
-  ![orange cat](https://github.com/Nargissamatova/Nargissamatova/assets/82582126/fd796887-f5a2-433a-bb3f-a3d2ca806a36)
+
+<p align="center">
+  <a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Description of GIF">
+  </a>
+</p>
 
 
 ## 📬 Let's Connect!
