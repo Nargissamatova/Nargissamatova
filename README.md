@@ -4,7 +4,7 @@ I'm Nargis, a full-stack web developer with a mission to master both the front a
 
 ## 🚀 About Me
 <div style="display: flex;">
-  <div style="flex: 1; width: 50%">
+  <div style="flex: 1; width: 200px">
     <ul>
       <li>Currently, I'm navigating the complexities of code while trying to convince my cat that JavaScript isn't a language meant for cats.</li>
       <li>Constantly learning and evolving, because let's face it, the tech world changes faster than a cat chasing a laser pointer.</li>
