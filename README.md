@@ -6,10 +6,9 @@ I'm Nargis, a full-stack web developer with a mission to master both the front a
 
 Currently, I'm navigating the complexities of code while trying to convince my cat that JavaScript isn't a language meant for cats.
 Constantly learning and evolving, because let's face it, the tech world changes faster than a cat chasing a laser pointer.
-
-  <a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">
+<a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Description of GIF" width="300" height="300">
-  </a>
+</a>
 
 
 
