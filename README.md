@@ -8,10 +8,9 @@ I'm Nargis, a full-stack web developer with a mission to master both the front a
 
 <p align="center">
   <a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Description of GIF">
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Description of GIF" width="300" height="300">
   </a>
 </p>
-
 
 ## 📬 Let's Connect!
 - 🌐 Portfolio: https://www.myportfolio.com
