@@ -8,7 +8,7 @@ I'm Nargis, a full-stack web developer with a mission to master both the front a
   - Constantly learning and evolving, because let's face it, the tech world changes faster than a cat chasing a laser pointer.
 <p align="center">
   <img src="![orange cat](https://github.com/Nargissamatova/Nargissamatova/assets/82582126/f04bddcb-740d-4009-9e0d-b3033bfd2d3e)
-" alt="Description of image">
+" alt="silly cat">
 </p>
 
 ## 📬 Let's Connect!
