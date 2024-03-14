@@ -7,8 +7,10 @@ I'm Nargis, a full-stack web developer with a mission to master both the front a
   - Currently, I'm navigating the complexities of code while trying to convince my cat that JavaScript isn't a language meant for cats.
   - Constantly learning and evolving, because let's face it, the tech world changes faster than a cat chasing a laser pointer.
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F7IjS&psig=AOvVaw1Se67-ABtQ59KoyDfCvHsF&ust=1710515655329000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCQ6sGF9IQDFQAAAAAdAAAAABAR" alt="silly cat">
+  <img src="![orange cat](https://github.com/Nargissamatova/Nargissamatova/assets/82582126/fd796887-f5a2-433a-bb3f-a3d2ca806a36)" alt="Description of image">
 </p>
+
+![orange cat](https://github.com/Nargissamatova/Nargissamatova/assets/82582126/fd796887-f5a2-433a-bb3f-a3d2ca806a36)
 
 ## 📬 Let's Connect!
 - 🌐 Portfolio: https://www.myportfolio.com
