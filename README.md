@@ -21,8 +21,6 @@ I'm Nargis, a full-stack web developer with a mission to master both the front a
 Feel free to drop by, share your coding tales, or exchange your favorite cat memes - because every great developer needs a debugging feline sidekick! 😸
   
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/Nargissamatova/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nargissamatova&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nargissamatova&layout=compact&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Nargissamatova&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
