@@ -22,5 +22,6 @@ Feel free to drop by, share your coding tales, or exchange your favorite cat mem
   
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nargissamatova&layout=compact&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nargissamatova&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nargissamatova&show_icons=true&theme=buefy&hide_border=true" alt="GitHub Stats" />
 </div>
+
