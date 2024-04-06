@@ -22,3 +22,4 @@ Feel free to drop by, share your coding tales, or exchange your favorite cat mem
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nargissamatova&layout=donut)](https://github.com/Nargissamatova/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
