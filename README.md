@@ -22,4 +22,4 @@ Feel free to drop by, share your coding tales, or exchange your favorite cat mem
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nargissamatova&layout=donut)](https://github.com/Nargissamatova/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nargissamatova)](https://github.com/Nargissamatova/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nargissamatova&show_icons=true&theme=radical)
