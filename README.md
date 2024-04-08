@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Nargissamatova)
 # Hello World! 👋
 
 I'm Nargis, a full-stack web developer with a mission to master both the front and back ends of the web.
