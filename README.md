@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Nargissamatova&style=flat&color=purple)
+![](https://komarev.com/ghpvc/?username=Nargissamatova&style=flat&color=blueviolet)
 # Hello World! 👋
 
 I'm Nargis, a full-stack web developer with a mission to master both the front and back ends of the web.
