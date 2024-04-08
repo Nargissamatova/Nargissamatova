@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Nargissamatova)
+![](https://komarev.com/ghpvc/?username=Nargissamatovatheme=buefy)
 # Hello World! 👋
 
 I'm Nargis, a full-stack web developer with a mission to master both the front and back ends of the web.
