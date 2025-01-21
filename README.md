@@ -15,7 +15,7 @@ I'm Nargis, a full-stack web developer with a mission to master both the front a
 
 
 ## 📬 Let's Connect!
-- 🌐 Portfolio: https://www.myportfolio.com
+- 🌐 Portfolio:  https://nargissamatova.github.io/my-portfolio
 - 📧 Email: nargissamatova16@gmail.com
 
 
